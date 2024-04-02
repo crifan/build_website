@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="how_manage_website"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>如何管理自己的网站</title>
+
+<para>此处教你，在建站后，如何管理自己的网站。</para>
+
+<tip xml:id="tip.old_post_how_manage"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/how_to_manage_remote_online_wordpress_website_on_hostmonster_virtual_host_machine/">【整理】如何管理远程（HostMonster上的）虚拟主机上的在线WordPress网站</link></para>
+    <para><link xl:href="http://www.crifan.com/what_is_cpanel_and_summary_usage_of_cpanel_control_remote_virtual_host/">【整理】什么是Cpanel，以及如何通过Cpanel管理远程主机</link></para>
+</tip>
+
+<para></para>
+<para>有些虚拟主机商的服务，做的不是足够好，比如hawk，连如何进入cpanel，都不够显眼，所以有时候还需要花点时间，才能找到登陆cpanel的入口：</para>
+<para><link xl:href="http://www.crifan.com/virtual_host_hawk_how_to_login_cpanel/">【已解决】hawk虚拟主机如何登陆进入Cpanel</link></para>
+<para></para>
+<para>有时候，遇到特殊的情况，无法登陆cpanel的话，可以参考：</para>
+<para><link xl:href="http://www.crifan.com/hawk_cpanel_login_failed_for_timeout/">【完全解决】hawk虚拟主机的cpanel登陆超时失败</link></para>
+<para></para>
+<para>如果觉得虚拟主机不够好，很多时候，也是可以退费的，具体可参考：</para>
+<para><link xl:href="http://www.crifan.com/record_process_for_bluehost_refund/">【记录】bluehost退费的过程</link></para>
+<para></para>
+<para>如果网站访问速度慢，可以自己用工具去分析，详见：</para>
+<para><link xl:href="http://www.crifan.com/how_to_analysis_website_access_speed_slow_tracert/">【记录】用tracert等工具分析网站访问速度慢的原因</link></para>
+<para></para>
+<para>关于加速网站访问速度方面，还有一种加速技术：</para>
+<para><link xl:href="http://www.crifan.com/summary_cloudflare_usage/">【整理】使用CloudFlare心得</link></para>
+<para></para>
+<para>如果使用网站期间，遇到问题，可以去客服反映。供参考的有：</para>
+<para><link xl:href="http://www.crifan.com/record_report_problem_of_hostmoster_service_unstable/">【记录】向HostMonster反映虚拟主机的服务不稳定的问题</link></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>

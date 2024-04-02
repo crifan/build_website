@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="how_build_website"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>如何建立自己的网站</title>
+
+<para>此处，以wordpress为例，教你如何，一步步的，建立自己的wordpress网站。</para>
+
+<tip xml:id="tip.old_post_how_build"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/how_to_build_online_wordpress_blog_website/">如何搭建在线的WordPress网站</link></para>
+</tip>
+
+<para></para>
+<para>建站之前，需要去买虚拟主机。买虚拟主机之前，最好测试一下，你的网络，连接到你要购买的虚拟主机的实际速度如何。具体如何测试，可参考：</para>
+<para><link xl:href="http://www.crifan.com/find_the_fast_speed_usa_foreign_virtual_host/">【记录】寻找国内访问速度比较快的美国的虚拟主机</link></para>
+<para></para>
+<para>确定了要买哪家的虚拟主机后，为了省钱，可以去找找一些优惠码等促销方式。</para>
+<para>网上多搜搜，基本都可以找到优惠码之类的。</para>
+<para>也可以参考我搜集的一些：</para>
+<para><link xl:href="http://www.crifan.com/the_latest_usable_godaddy_coupon_code/">【整理】GoDaddy优惠码，最新可用的</link></para>
+<para><link xl:href="http://www.crifan.com/find_bluehost_coupon/">【记录】寻找Bluehost优惠码</link></para>
+<para></para>
+<para></para>
+<para></para>
+<para>关于购买虚拟主机，可供参考的有：</para>
+<para><link xl:href="http://www.crifan.com/process_of_buy_bluehost_virtual_host/">【记录】购买BlueHost虚拟主机</link></para>
+<para><link xl:href="http://www.crifan.com/buy_virtual_host_hawk/">【记录】购买hawk虚拟主机</link></para>
+<para></para>
+<para>买了之后，关于如何续费，可参考：</para>
+<para><link xl:href="http://www.crifan.com/how_to_renew_virtual_host_in_hostmonster/">【教程】如何续费/续租（HostMonster上的）虚拟主机</link></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<bibliography
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    
+    xml:id="reference">
+
+<bibliomixed xml:id="ref.build_website_basic_info">
+  <bibliosource><link xl:href="http://www.crifan.com/basic_background_and_process_for_build_website/">【整理】关于建立网站的基本背景知识，基本概念和大概建站流程</link></bibliosource>
+  <author>Crifan Li</author>
+</bibliomixed>
+
+<bibliomixed xml:id="ref.after_test_do_website_transfer">
+  <bibliosource><link xl:href="http://www.crifan.com/after_local_test_wordpress_ok_then_do_transfer_webhosting_to_hawk/">【记录】在本地测试wordpress已成功后去实现在线的wordpress网站搬家(换主机)</link></bibliosource>
+  <author>Crifan Li</author>
+</bibliomixed>
+
+</bibliography>

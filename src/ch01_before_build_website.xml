@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="before_build_website"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>建站之前需要了解的概念</title>
+
+<para></para>
+<para></para>
+<para></para>
+
+<tip xml:id="tip.old_post_before_build"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/basic_background_and_process_for_build_website/">【整理】关于建立网站的基本背景知识，基本概念和大概建站流程</link></para>
+</tip>
+
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>
